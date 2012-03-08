@@ -18,5 +18,10 @@ Note: one goal is to determine the extent and deepness of the *dark web services
 * Ivan Zuzak
 * Erik Wilde (?)
 
+## To dos
+
+* Evaluate PW API
+* Determine how to measure 'Hypermedianess' 
+
 ## License
 Public domain.
