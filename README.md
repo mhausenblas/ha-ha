@@ -9,6 +9,7 @@ We will do this in two phases:
 * First, we will use the [Programmable Web API](http://api.programmableweb.com/) to determine target APIs and retrieve representative samples of representations from those APIs in an automated fashion.
 * Second, we will, manually, evaluate the repository of API representations and determine how to measure the 'degree of hypermedia' used.
 
+Note: one goal is to determine the extent and deepness of the *dark web services*.
 
 ## License
 Public domain.
