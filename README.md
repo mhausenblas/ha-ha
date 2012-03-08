@@ -11,5 +11,12 @@ We will do this in two phases:
 
 Note: one goal is to determine the extent and deepness of the *dark web services*.
 
+## Team
+
+* Michael Hausenblas
+* Mike Amundsen
+* Ivan Zuzak
+* Erik Wilde (?)
+
 ## License
 Public domain.
