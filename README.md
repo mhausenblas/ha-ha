@@ -20,7 +20,7 @@ Note: one goal is to determine the extent and deepness of the *dark web services
 
 ## To dos
 
-* Evaluate PW API
+* Evaluate PW API and write harness 
 * Determine how to measure 'Hypermedianess' 
 
 ## License
